@@ -15,5 +15,6 @@ File Structure
 facial_recognition_attendance.ipynb: The main script implemented in a Jupyter notebook.
 new_images/: Directory containing images for training the facial recognition model.
 attendance.csv: CSV file to store attendance data.
+the link to the video can be found here
 
 
